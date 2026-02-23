@@ -5,10 +5,12 @@
 - 🤝 **Looking to collaborate on:** B2B web applications, API integrations, scalable e-commerce infrastructure, and AI automation.
 
 ---
-
 ### 🛠️ Professional Expertise & Tech Stack
 ---
-**Programming Languages & Backend** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Programming Languages & Backend** 
+---
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -47,9 +49,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
----
-
 ### 🌐 Let's Connect
-
+---
 [![Website](https://img.shields.io/badge/Website-zitrixnet.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zitrixnet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zitrixnet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/zitrixnet)
